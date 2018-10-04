@@ -1,19 +1,19 @@
-# [NOME DA DISCIPLINA] X sem. 20XX
+# [CIÊNCIA DA COMPUTAÇÃO] X sem. 20XX
 
-## Turma XXX
-## Projeto: "nome do projeto"
+## Turma 01N
+## Projeto: "GENIUS SENSORS"
 ## Integrantes do grupo:
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
+* SALOMON ASHER MOTORYN
+* MAURICIO FURLAN
+* JOÃO MACHADO
+* CAIO
 
 ## Descrição resumida do projeto
 
 Descreva resumidamente o projeto aqui.
 
-_______________________________________
+PROJETO COM SENSOR DE PROXIMIDADE, JOGO DAS LUZES, GENIUS.
 Obs:
 
 `src/` deve conter os códigos desenvolvidos
